@@ -1,5 +1,8 @@
 # freeCodeCamp-Personal-Portfolio-Webpage
-Build a Personal Portfolio Webpage
+
+This is my personal portfolio site. It contains the projects I have completed through freeCodeCamp. I used HTML and CSS for all of them.
+
+## Build a Personal Portfolio Webpage
 Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
 
 User Stories:
